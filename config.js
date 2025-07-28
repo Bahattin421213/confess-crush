@@ -10,7 +10,7 @@ const CONFIG = {
     btnNo: 'DEĞİLİM SG',
     question: 'söylemek istediğin bişey var mı cücee',
     btnReply: 'Heh sağol',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'gizeeem',
     mess: 'İYİ Kİ DOĞDUNNNN İYİ Kİ VARSINN',
     messDesc: 'Şey bundan sonra KONYALI demek yok',
     btnAccept: 'Kabull(yokbaşkasecenek)',
