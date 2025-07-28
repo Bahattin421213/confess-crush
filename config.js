@@ -13,6 +13,6 @@ const CONFIG = {
     reply: 'gizeeem',
     mess: 'İYİ Kİ DOĞDUNNNN İYİ Kİ VARSINN',
     messDesc: 'Şey bundan sonra KONYALI demek yok',
-    btnAccept: 'Kabull(yokbaşkasecenek)',
+    btnAccept: 'Kabull(yokbaşkasecenekk)',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
